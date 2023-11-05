@@ -1,0 +1,20 @@
+\begin{theindex}
+
+  \item {fibonacci\_main.cc}, \hyperpage{1}
+  \item {fibonacci\_sum.cc}, \hyperpage{1}
+    \subitem {FibonacciSum}, \hyperpage{2}
+    \subitem {Usage}, \hyperpage{2}
+  \item {fibonacci\_sum.h}, \hyperpage{3}
+    \subitem {FibonacciSum}, \hyperpage{3}
+    \subitem {Usage}, \hyperpage{4}
+  \item {FibonacciSum}
+    \subitem {fibonacci\_sum.cc}, \hyperpage{2}
+    \subitem {fibonacci\_sum.h}, \hyperpage{3}
+
+  \indexspace
+
+  \item {Usage}
+    \subitem {fibonacci\_sum.cc}, \hyperpage{2}
+    \subitem {fibonacci\_sum.h}, \hyperpage{4}
+
+\end{theindex}
